@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1617651002 source:c:\users\maximilian\onedrive - bmk group gmbh & co. kg\entwicklung_bmk\projekte\software\segment-routine\segment-routine\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Segment-Routine.h"
+
+1615756566 c:\users\maximilian\onedrive - bmk group gmbh & co. kg\entwicklung_bmk\projekte\software\segment-routine\segment-routine\segment-routine.h
+
+1618949335 source:c:\users\maximilian\documents\github\shiftregister-routine\source\v002\segment-routine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"MuxSeg.h"
+
+1617743055 c:\users\maximilian\documents\github\shiftregister-routine\source\v002\segment-routine\segment-routine.h
+
+1618949271 source:c:\users\maximilian\documents\github\shiftregister-routine\source\v002\segment-routine\muxseg.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"MuxSeg.h"
+
+1618949524 c:\users\maximilian\documents\github\shiftregister-routine\source\v002\segment-routine\muxseg.h
+
+1618949335 source:c:\users\maximilian\documents\github\muxseg\source\v002\segment-routine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"MuxSeg.h"
+
+1618949524 c:\users\maximilian\documents\github\muxseg\source\v002\segment-routine\muxseg.h
+
+1618949271 source:c:\users\maximilian\documents\github\muxseg\source\v002\segment-routine\muxseg.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"MuxSeg.h"
+
+1621865205 source:c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine\muxseg.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"main.h"
+	"MuxSeg.h"
+	"uprintf_Routine.h"
+
+1621865230 c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine\muxseg.h
+
+1621864518 source:c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine\uprintf_routine.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdint.h>
+	"main.h"
+	"MuxSeg.h"
+	"uprintf_Routine.h"
+
+1621864518 source:c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"MuxSeg.h"
+	"uprintf_Routine.h"
+
+1621864357 c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine\uprintf_routine.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdint.h>
+
+1621864828 c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine\main.h
+
+1621883023 source:c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine-console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"MuxSeg.h"
+	"uprintf_Routine.h"
+
+1621877401 c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine-console\muxseg.h
+
+1621866057 c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine-console\uprintf_routine.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdint.h>
+
+1621877383 source:c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine-console\muxseg.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"main.h"
+	"MuxSeg.h"
+	"uprintf_Routine.h"
+
+1621866057 c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine-console\main.h
+
+1621882023 source:c:\users\maximilian\documents\github\muxseg\source\v003\segment-routine-console\uprintf_routine.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdint.h>
+	"main.h"
+	"MuxSeg.h"
+	"uprintf_Routine.h"
+
+1622114515 source:c:\users\107475\documents\github\shiftregister-routine\source\v003\segment-routine-console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"MuxSeg.h"
+	"uprintf_Routine.h"
+
+1622114546 c:\users\107475\documents\github\shiftregister-routine\source\v003\segment-routine-console\muxseg.h
+
+1622114603 c:\users\107475\documents\github\shiftregister-routine\source\v003\segment-routine-console\uprintf_routine.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdint.h>
+
+1622114552 source:c:\users\107475\documents\github\shiftregister-routine\source\v003\segment-routine-console\muxseg.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"main.h"
+	"MuxSeg.h"
+	"uprintf_Routine.h"
+
+1621932098 c:\users\107475\documents\github\shiftregister-routine\source\v003\segment-routine-console\main.h
+
+1621947949 source:c:\users\107475\documents\github\shiftregister-routine\source\v003\segment-routine-console\uprintf_routine.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdint.h>
+	"main.h"
+	"MuxSeg.h"
+	"uprintf_Routine.h"
+
